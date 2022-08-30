@@ -23,10 +23,10 @@ There are 4 members in this Group
 - Ruby on Rails
   
  ## Live Demo
- ### [Front-end link](https://github.com/AyoubMs/book-an-appointment-front-end)
+ ### [Front-end link](https://github.com/Achilles-Dev/book-an-appointment-front-end)
  
  
- - [API-docs](http://127.0.0.1:3000/api-docs/index.html)
+ - [API-docs](https://motorcycle-bookings-app.herokuapp.com/api-docs/index.html)
 
 
 
@@ -36,10 +36,10 @@ There are 4 members in this Group
 
 1. clone the repository to you machine using your terminal:
    ```
-   git clone git@github.com:sentayhu19/Book-an-appointment-back-end.git
+   git clone https://github.com/Achilles-Dev/Book-an-appointment-back-end.git
    ```
    ```
-   cd booking-an-appointment-back-end
+   cd Book-an-appointment-back-end
    ```
 2. Install the gems:
    ```
