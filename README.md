@@ -56,7 +56,7 @@ There are 4 members in this Group
 
 5. To run the tests use:
    ```
-   rake swag:specs:swaggerize
+   rake rswag:specs:swaggerize
    ```
 
 
