@@ -131,7 +131,7 @@ paths:
       description: id
       required: true
       schema:
-        type: string
+        type: integer
     get:
       summary: show motorcycle
       responses:
@@ -345,4 +345,4 @@ servers:
 - url: https://{defaultHost}
   variables:
     defaultHost:
-      default: www.example.com
+      default: motorcycle-bookings-app.herokuapp.com
