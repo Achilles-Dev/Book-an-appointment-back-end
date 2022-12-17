@@ -26,7 +26,7 @@ There are 4 members in this Group
  ### [Front-end link](https://github.com/Achilles-Dev/book-an-appointment-front-end)
  
  
- - [API-docs](https://motorcycle-bookings-app.herokuapp.com/api-docs/index.html)
+ - [API-docs](https://motorcycle-bookings-app.onrender.com/api-docs/index.html)
 
 
 

@@ -25,7 +25,7 @@ RSpec.configure do |config|
           url: 'https://{defaultHost}',
           variables: {
             defaultHost: {
-              default: 'motorcycle-bookings-app.herokuapp.com'
+              default: 'motorcycle-bookings-app.onrender.com'
             }
           }
         }
