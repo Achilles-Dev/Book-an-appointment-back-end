@@ -6,4 +6,8 @@ class Motorcycle < ApplicationRecord
   validates :description, presence: true, length: { in: 1..10_000 }
   validates :duration_months, presence: true, numericality: { greater_than: 0 }
   validates :price, presence: true, numericality: { greater_than: 0 }
+
+  def image_url
+    Rails.application.routes.url_helpers.url_for(image) if image.attached?
+  end
 end
